@@ -46,6 +46,9 @@ Area report:
 
 ![WhatsApp Image 2024-11-15 at 13 51 18_7abfe9af](https://github.com/user-attachments/assets/347b3026-8d88-4363-98e7-b7000ef0cf06)
 
+<br>
+<br>
+
 Power Report:
 
 ![WhatsApp Image 2024-11-15 at 13 51 18_d77db61a](https://github.com/user-attachments/assets/20455b9c-e84f-489f-ae24-b413f674474e)
