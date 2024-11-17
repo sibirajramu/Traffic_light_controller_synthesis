@@ -50,6 +50,9 @@ Power Report:
 
 ![WhatsApp Image 2024-11-15 at 13 51 18_d77db61a](https://github.com/user-attachments/assets/20455b9c-e84f-489f-ae24-b413f674474e)
 
+<br>
+<br> 
+
 Result:
 
 The generic netlist of Traffic Light Controller has been created, and area, power reports have been tabulated and generated using Genus.
